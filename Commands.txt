@@ -1,0 +1,21 @@
+python plot5.py  atlas-math-sets
+python plot5.py  bioasq10b-factoid
+python plot5.py  biomedical_cpgQA
+python plot5.py  ielts
+python plot5.py  QuAC
+python plot5.py  ScienceQA
+python plot5.py  wikipedia
+python plot5.py  JournalQA
+
+
+
+
+
+python plot8.py  atlas-math-sets
+python plot8.py  bioasq10b-factoid
+python plot8.py  biomedical_cpgQA
+python plot8.py  ielts
+python plot8.py  QuAC
+python plot8.py  ScienceQA
+python plot8.py  wikipedia
+python plot8.py  JournalQA
